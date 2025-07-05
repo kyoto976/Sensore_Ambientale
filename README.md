@@ -68,6 +68,17 @@ Controlli consigliati:
 - Switch (V4) per fan manuale
 - LED virtuale per stato fan (V3)
 
+ ## 📱 Screenshot dell'app Blynk
+
+### 🌐 Dashboard Web
+
+![Dashboard Web](screen_pagina_web_blynk.png)
+
+### 📲 App Mobile
+
+![App Mobile](screen_app_blynk.jpeg)
+
+
 ---
 
 ## 🧠 Autore
